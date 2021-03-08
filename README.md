@@ -1,2 +1,12 @@
-# shellscanner
-Tools untuk scan Shell backdoor cocok buat lu yang mau nikung deface orang:v
+# Installing
+```php
+git clone https://github.com/Xclowns9/shellscanner.git
+cd shellscanner
+python2 scan.py
+```
+
+# Contact Me
+```
+Instagram : faaxd_
+WhatsApp  : 083874438104
+```
