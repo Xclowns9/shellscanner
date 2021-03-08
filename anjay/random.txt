@@ -75,6 +75,9 @@ sunda.phtml
 sunda.php.xxxjpg
 jingan.php
 chan.php
+babi.php
+mifaeao.php
+mifaeax.php
 kntl.php
 Kntl.php5
 losX.php
